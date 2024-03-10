@@ -1,16 +1,12 @@
 
-import './App.css'
-import MessageBox from './messageBox';
+// import './App.css'
+// import MessageBox from './messageBox';
+import ProductTab from './ProductTab'
 
 function App() {
+return <ProductTab/>;
 
 
-  return <MessageBox userName="saurav" textColor="blue"/>
-}
-
-function Title()
-{
-return <h1>Title</h1>;
 }
 
 export default App

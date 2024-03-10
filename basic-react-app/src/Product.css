@@ -1,0 +1,16 @@
+#Product{
+    margin-left: auto;
+height: 200px;
+width: 200px;
+border: 1px solid black !important;
+border-radius: 20px;
+background-color: aliceblue !important;
+text-align: center;
+
+}
+.ProductLab
+{ 
+   
+    display: flex;
+    flex-wrap: wrap;
+}
