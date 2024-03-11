@@ -1,12 +1,7 @@
-
-// import './App.css'
-// import MessageBox from './messageBox';
-import ProductTab from './ProductTab'
-
-function App() {
-return <ProductTab/>;
-
-
+import Button1 from "./EventHandling/Button1"
+function App()
+{
+    return <div><Button1/></div>
 }
 
 export default App

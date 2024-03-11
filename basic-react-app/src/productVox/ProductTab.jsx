@@ -11,3 +11,12 @@ export default function ProductTab(){
     );
    
 };
+
+//   App.jsx
+// import ProductTab from './ProductTab'
+
+// function App() {
+// return <ProductTab/>;
+
+
+// }
